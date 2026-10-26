@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/ubuntu/Desktop/CS-600-Assignments/module5/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/ubuntu/Desktop/CS-600-Assignments/module5/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/ubuntu/Desktop/CS-600-Assignments/module5/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/ubuntu/Desktop/CS-600-Assignments/module5/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/ubuntu/Desktop/CS-600-Assignments/module5/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/ubuntu/Desktop/CS-600-Assignments/module5/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/ubuntu/Desktop/CS-600-Assignments/module5/target/dev-bundle/config",
+  "i18nOutput": "target/classes/vaadin-i18n",
+  "jarResourcesFolder": "/home/ubuntu/Desktop/CS-600-Assignments/module5/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/ubuntu/Desktop/CS-600-Assignments/module5/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
